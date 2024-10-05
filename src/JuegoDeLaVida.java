@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class JuegoDeLaVida {
     public static void main(String[] args) {
+
         boolean[][] tablero = new boolean[5][5];
         boolean[][] nuevoTablero = new boolean[5][5];
         Random r = new Random();
